@@ -1,0 +1,5 @@
+docker/app
+docker/data  
+app/__pycache__/
+app/handlers/__pycache__/
+.idea
